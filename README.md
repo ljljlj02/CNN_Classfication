@@ -29,7 +29,7 @@ classification result
 train result
 
 ![train_acc](CIFAR10_normal/accuracy.png)
-![train_loss](CIFAR10_normal/los.png)
+![train_loss](CIFAR10_normal/loss.png)
 
 
 ## Related repos and datasets
