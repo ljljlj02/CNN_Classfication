@@ -17,11 +17,17 @@ Maybe other versions all works well!
 This is a [pre-trained model](https://pan.baidu.com/s/1brJSkic5gYxkj1zuYWlBfw) I trained, but it isn't tuned optimally!
 
 ## Result
+
 model structure
+
 ![model_struct](model.png)
+
 classification result
+
 ![predict](predict.png)
+
 train result
+
 ![train_acc](CIFAR10_normal/accuracy.png)
 ![train_loss](CIFAR10_normal/los.png)
 
